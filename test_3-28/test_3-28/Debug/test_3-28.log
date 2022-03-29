@@ -1,0 +1,4 @@
+﻿  test.c
+D:\F\刷题\test_3-28\test_3-28\test.c(326,31): warning C4474: scanf: 格式字符串中传递的参数太多
+D:\F\刷题\test_3-28\test_3-28\test.c(326,31): message : 占位符和其参数预计 1 可变参数，但提供的却是 2 参数
+  test_3-28.vcxproj -> D:\F\刷题\test_3-28\Debug\test_3-28.exe

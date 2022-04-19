@@ -1,0 +1,7 @@
+﻿  test.c
+D:\F\刷题\DAIMA\test_4-17\test_4-17\test.c(145,9): warning C4013: “gets”未定义；假设外部返回 int
+D:\F\刷题\DAIMA\test_4-17\test_4-17\test.c(148,15): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“int”
+D:\F\刷题\DAIMA\test_4-17\test_4-17\test.c(148,15): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 2 拥有了类型“int”
+D:\F\刷题\DAIMA\test_4-17\test_4-17\test.c(148,15): warning C4477: “scanf”: 格式字符串“%c”需要类型“char *”的参数，但可变参数 3 拥有了类型“int”
+D:\F\刷题\DAIMA\test_4-17\test_4-17\test.c(148,15): warning C4477: “scanf”: 格式字符串“%c”需要类型“char *”的参数，但可变参数 4 拥有了类型“int”
+  test_4-17.vcxproj -> D:\F\刷题\DAIMA\test_4-17\Debug\test_4-17.exe
